@@ -35,5 +35,5 @@ You can use the tests.js to play with:
  // the two arrays are now holding the transformed values
  // ...
  ```
- ### Credits
- This code is ported from Java and here is the original source [here](http://www.ee.columbia.edu/~ronw/code/MEAPsoft/doc/html/FFT_8java-source.html).
+### Credits
+This code is ported from Java and here is the original source [here](http://www.ee.columbia.edu/~ronw/code/MEAPsoft/doc/html/FFT_8java-source.html).
