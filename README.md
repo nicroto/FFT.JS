@@ -36,4 +36,4 @@ You can use the tests.js to play with:
  // ...
  ```
 ### Credits
-This code is ported from Java and here is the original source [here](http://www.ee.columbia.edu/~ronw/code/MEAPsoft/doc/html/FFT_8java-source.html).
+This code is ported from Java and the original source is [here](http://www.ee.columbia.edu/~ronw/code/MEAPsoft/doc/html/FFT_8java-source.html).
